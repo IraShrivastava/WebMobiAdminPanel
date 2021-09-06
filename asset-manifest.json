@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WebMobiAdminPanel/static/css/main.87a85fb9.chunk.css",
+    "main.js": "/WebMobiAdminPanel/static/js/main.3394a82f.chunk.js",
+    "main.js.map": "/WebMobiAdminPanel/static/js/main.3394a82f.chunk.js.map",
+    "runtime-main.js": "/WebMobiAdminPanel/static/js/runtime-main.717c46ba.js",
+    "runtime-main.js.map": "/WebMobiAdminPanel/static/js/runtime-main.717c46ba.js.map",
+    "static/js/2.378f0ca3.chunk.js": "/WebMobiAdminPanel/static/js/2.378f0ca3.chunk.js",
+    "static/js/2.378f0ca3.chunk.js.map": "/WebMobiAdminPanel/static/js/2.378f0ca3.chunk.js.map",
+    "static/js/3.2d5a3f36.chunk.js": "/WebMobiAdminPanel/static/js/3.2d5a3f36.chunk.js",
+    "static/js/3.2d5a3f36.chunk.js.map": "/WebMobiAdminPanel/static/js/3.2d5a3f36.chunk.js.map",
+    "index.html": "/WebMobiAdminPanel/index.html",
+    "static/css/main.87a85fb9.chunk.css.map": "/WebMobiAdminPanel/static/css/main.87a85fb9.chunk.css.map",
+    "static/js/2.378f0ca3.chunk.js.LICENSE.txt": "/WebMobiAdminPanel/static/js/2.378f0ca3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.717c46ba.js",
+    "static/js/2.378f0ca3.chunk.js",
+    "static/css/main.87a85fb9.chunk.css",
+    "static/js/main.3394a82f.chunk.js"
+  ]
+}
