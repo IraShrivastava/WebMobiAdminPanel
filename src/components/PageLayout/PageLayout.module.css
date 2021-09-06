@@ -1,0 +1,12 @@
+.pageBody{
+    display:grid;
+    grid-template-columns:6.25rem auto 4rem;
+    min-width:100%;
+    height:100%;
+}
+.leftSidebar{
+    justify-self:start
+}
+.rightSidebar{
+    justify-self:end
+}

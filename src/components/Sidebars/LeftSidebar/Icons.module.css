@@ -1,0 +1,44 @@
+.iconOuterMargin{
+    margin:0.25rem;
+}
+
+.selectedIconStyle, .unselectedIconStyle{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+.selectedIconStyle{
+    height:4rem;
+    width:5rem; 
+    border-radius:1rem;
+    border-width:0.1rem;
+    border-style:solid;
+    border-color:#c82ae8
+}
+
+.unselectedIconStyle{
+    height:4rem;
+    width:5rem;  
+    border-width:0.1rem;
+    border-style:solid;
+    border-color:white
+}
+
+.iconStyle{
+    margin-top:0.5rem;
+    font-size:2em;
+    color:#c82ae8
+}
+
+.disabledIconStyle{
+    margin-top:0.25rem;
+    font-size:2em;
+    color:grey    
+}
+
+.iconLabelStyle{
+    /* color:props.disabled?grey:#c82ae8; */
+    font-size:0.75em;
+    font-weight:bolder; 
+}

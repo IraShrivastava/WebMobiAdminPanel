@@ -1,0 +1,67 @@
+.container{
+    position:relative;
+    right:0;
+    margin:0;
+    height:100%;
+    max-width:fit-content;
+    display:flex;
+    flex-direction: column;
+    flex-grow: unset;
+    box-shadow: -5px 0 5px -3px #888;
+}
+
+.profileAvatarContainer{
+    height:4rem;
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profileAvatar{
+    height:3rem;
+    width:3rem;
+    border-radius: 1rem;
+    object-fit: cover;
+}
+
+.iconsContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:1rem;
+    padding:0 1rem; 
+}
+
+.iconsContainer > div{
+    max-height:1.5rem;
+}
+
+.notificationDot{
+    position: relative;
+    top: -1.25rem;
+    left: 0.25rem;
+    height: 0.75rem;
+    width: 0.75rem;
+    background-color: #c82ae8;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    z-index: 10;
+}
+
+.iconNotificationDot{
+    position: relative;
+    right: -1.25rem;
+    top: 0.5rem;
+    height: 0.5rem;
+    width: 0.5rem;
+    border-radius: 50%;
+    background-color: #74eb6e;
+}
+
+.iconStyles{
+    font-size: 2em;
+    color: grey;
+}

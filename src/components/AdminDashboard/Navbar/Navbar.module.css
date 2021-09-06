@@ -1,0 +1,24 @@
+.navbarBody{
+    background-color: white;
+    box-shadow: 0 5px 5px -3px #888;
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-between;
+    /* z-index:9; */
+    width:100%;
+    height:5rem;
+    
+}
+
+.navbarIconStyle{
+    font-size:1.2em
+}
+
+.preview{
+    padding: 0.5%;
+    margin-right: 0.5%;
+    border-style: solid;
+    border-width: thin;
+    color:grey;
+}
